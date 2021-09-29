@@ -1,0 +1,27 @@
+{
+	"titulo": "El video de benny",
+
+	"descripcion": "La película se centra en la vida de un chico de 14 años, Benny de buena familia que se aficiona al vídeo. Después de grabar un vídeo de un cerdo siendo sacrificado en un matadero, Benny realizará un acto salvaje.",
+
+	"fecha": "13 de mayo de 19992",
+
+	"genero": "Thriller",
+
+	"duracion": "1h 45min",
+
+	"direccion":{
+
+		"nombre":"Michael Haneke",
+		"edad":"79 años",
+		"premios":"Palma de oro",
+		"libros": ["happy end: das drehbuch", "amour", "non ho niente da nascondere: interviste sul cinema e sulla vita"],
+	},
+
+	"reparto":["Arno Frisch", "Ulrich Muhe", "Angela Winkler"],
+
+	"puntuacion": "7,6",
+
+	"similares":["El septimo continente", "Funny Games"]
+	
+	
+}
